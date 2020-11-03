@@ -1,4 +1,4 @@
-## Description: Nintendo App (Donkey Kong Journey) ##
+## Description: Nintendo App (Donkey Kong Journey) ## <br>
 Version: 1.7 <br>
 Created: 2019-12-02 <br>
 
@@ -10,21 +10,24 @@ Metroid and Donkey Kong images: Nintendo owns intellectual property rights in it
 
 The reason I used these images was only because I love Nintendo Games, and I prefer to show my knowledge joining my passions.
 
-### Mobile UI Testing ### <br>
+### Mobile UI Testing <br>
 iOS Automated Testing using; Python, Appium and Selenium.
 
 video: <br> 
 https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 
-
+<br>
+<br>
 
 ### Environment Configuration of Swift ###
 https://developer.apple.com/swift/
 
+<br>
 
 ## Xcode Configuration ##
 https://developer.apple.com/documentation/xcode/
               
+<br>
 
 **E-mail:** luiz.gmacedo@gmail.com
 
