@@ -1,6 +1,6 @@
 ## Description:Nintendo App: Donkey Kong Journey ##
-Version:** 1.7 <br>
-Created:** 2019-12-02 <br>
+Version: 1.7 <br>
+Created: 2019-12-02 <br>
 
 I developed a simple iOS Application using Swift in Xcode, just to provide a basic validation run (Smoke Testing).
 
