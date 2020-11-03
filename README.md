@@ -20,7 +20,6 @@ video: <br>
 https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 
 <br>
-<br>
 
 ### Environment Configuration of Swift ###
 https://developer.apple.com/swift/
@@ -29,7 +28,7 @@ https://developer.apple.com/swift/
 ## Xcode Configuration ##
 https://developer.apple.com/documentation/xcode/
               
-
+<br>
 
 **E-mail:** luiz.gmacedo@gmail.com
 
