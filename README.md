@@ -24,10 +24,11 @@ https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 ## Environment Configuration of Swift ##
 https://developer.apple.com/swift/
 
-
+<br>
 ## Xcode Configuration ##
 https://developer.apple.com/documentation/xcode/
               
+<br>
 <br>
 
 **E-mail:** luiz.gmacedo@gmail.com
