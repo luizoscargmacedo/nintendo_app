@@ -17,16 +17,17 @@ The reason I used these images was only because I love Nintendo Games, and I pre
 iOS Automated Testing using; Python, Appium and Selenium.
 
 ### video: <br> 
-https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
+ - https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 
 <br>
 
 ## Environment Configuration of Swift ##
-https://developer.apple.com/swift/
+ - https://developer.apple.com/swift/
 
 <br>
+
 ## Xcode Configuration ##
-https://developer.apple.com/documentation/xcode/
+ - https://developer.apple.com/documentation/xcode/
               
 <br>
 <br>
