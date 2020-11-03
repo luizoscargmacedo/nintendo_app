@@ -4,6 +4,9 @@ Created: 2019-12-02 <br>
 
 I developed a simple iOS Application using Swift in Xcode, just to provide a basic validation run (Smoke Testing).
 
+<br>
+<br>
+
 ## Very Important: ## 
 The purpose of this "App" is to provide an overview of the automation procedures and the available resources.
 Metroid and Donkey Kong images: Nintendo owns intellectual property rights in its products. These includes copyrights, trademarks, and patents.
@@ -22,12 +25,11 @@ https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 ### Environment Configuration of Swift ###
 https://developer.apple.com/swift/
 
-<br>
 
 ## Xcode Configuration ##
 https://developer.apple.com/documentation/xcode/
               
-<br>
+
 
 **E-mail:** luiz.gmacedo@gmail.com
 
