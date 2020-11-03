@@ -1,4 +1,4 @@
-## Description: Nintendo App (Donkey Kong Journey) ## <br>
+## Description: Nintendo App (Donkey Kong Journey)  <br>
 Version: 1.7 <br>
 Created: 2019-12-02 <br>
 
@@ -16,12 +16,12 @@ The reason I used these images was only because I love Nintendo Games, and I pre
 ### Mobile UI Testing <br>
 iOS Automated Testing using; Python, Appium and Selenium.
 
-video: <br> 
+### video: <br> 
 https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 
 <br>
 
-### Environment Configuration of Swift ###
+## Environment Configuration of Swift ##
 https://developer.apple.com/swift/
 
 
