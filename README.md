@@ -18,10 +18,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:6635504785434914817/
 
 
 
-### Automating mobile projects using Python ### 
-
-
-
 ### Environment Configuration ###
 
 ** Environment Configuration of Swift ** 
