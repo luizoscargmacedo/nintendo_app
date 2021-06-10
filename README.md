@@ -1,4 +1,4 @@
-## Description: Nintendo App (Donkey Kong Journey)  <br>
+## Description: Nintendo iOS App (Donkey Kong Journey)  <br>
 Version: 1.7 <br>
 Created: 2019-12-02 <br>
 
